@@ -5,14 +5,14 @@ public class Challenge {
 
     public static void main(String[] args) {
 
+// KALO MAU COPY DARI SINI YA ADIK ADIK==================================================
 
-
-//                Deklarasikan variabelnya ya adik adik
+//                Deklarasi
         Scanner input = new Scanner(System.in);
         int  nilai;
         float nilay, mean;
                 
-//                prosesnya    
+//                proses   
         System.out.print ("berapa kali ingin menginput nilai ? : ");
         nilai = input.nextInt();
         float all=0;
@@ -33,5 +33,7 @@ public class Challenge {
        System.out.println("kami putuskan bahwa antum " + hasil + " dengan nilai rata rata "  + mean);
 
        }  
+// SAMPAI SINI ==================================================
+
     }
 }
