@@ -1,5 +1,5 @@
 # algoritm-challenge
-challenge that give from my lecture ms Herlina to let me try to prepare examination
+challenge that give from my lecturer ms Herlina to let me try to prepare examination
 
 ## case : 
 "please make a program with output like this"
