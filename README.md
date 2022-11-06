@@ -1,5 +1,5 @@
 # algoritm-challenge
-challenge that give from my lecture, ms Herlina
+challenge that give from my lecture ms Herlina to let me try to prepare examination
 
 ## case : 
 "please make a program with output like this"
@@ -9,5 +9,5 @@ challenge that give from my lecture, ms Herlina
 so i give the source code to solve the challenge
 i think that's all
 
-and don't forget
-"
+#### Don't Forgot to share with Your Friends
+### only a NOOB who copied and claimed that he made this script
